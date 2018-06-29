@@ -21,5 +21,4 @@ If the ball falls on the floor or time up, it will be game over.
 
 
 # Image
-https://user-images.githubusercontent.com/32384126/42094528-9962f202-7b9f-11e8-8f8b-93d59eb22bfe.png
 
